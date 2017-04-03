@@ -1,0 +1,32 @@
+{
+  "name": "step",
+  "description": "async control flow",
+  "version": "0.1.0",
+  "homepage": "https://github.com/seanc/step",
+  "author": "Sean Wilson (https://imsean.me)",
+  "repository": "seanc/step",
+  "bugs": {
+    "url": "https://github.com/seanc/step/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "array",
+    "step",
+    "async",
+    "asynchronous"
+  ],
+  "dependencies": {
+    "fast-args": "^1.0.0"
+  }
+}
